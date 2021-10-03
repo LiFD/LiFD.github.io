@@ -25,12 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```Li's fantastic quantum world 
+###Li's fantastic quantum world 
 
-```A little math
+###A little math
 
 
-```Thoughts and notes for group theory 
+###Thoughts and notes for group theory 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
