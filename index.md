@@ -9,10 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-##Li's fantastic quantum world 
+## Li's fantastic quantum world 
 
+## A little math
 
-
-##A little math
-
-##Thoughts and notes for group theory 
+## Thoughts and notes for group theory 
