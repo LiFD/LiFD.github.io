@@ -1,5 +1,5 @@
-#Li's fantastic quantum world 
+##Li's fantastic quantum world 
 
-#A little math
+##A little math
 
-#Thoughts and notes for group theory 
+##Thoughts and notes for group theory 
